@@ -36,18 +36,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
   <div>
-    ### Frameworks, Platforms and Libraries:
-    --
+  Frameworks, Platforms and Libraries:
+  <br>
 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Js" alt="Js"/>&nbsp;
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" />&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Js" alt="Js"/>&nbsp;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" />&nbsp;
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
 
   <div>
     <strong>Languages:</strong>
@@ -66,36 +66,31 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       
   </div>
 
- <div>
-    <strong>Testing:</strong>
-    <br>
-    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
-  </div>
+  <div>
+      <strong>Testing:</strong>
+      <br>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
+    </div>
 
----
+  <div>
+      <strong>Design:</strong>
+      <br>
+      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" title="adobe" alt="adobe"/>&nbsp;
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="figma" alt="figma"/>&nbsp;
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canvas" alt="Canvas"/>&nbsp;
+    </div>
 
- <div>
-    <strong>Design:</strong>
-    <br>
-    <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" title="adobe" alt="adobe"/>&nbsp;
-     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="figma" alt="figma"/>&nbsp;
-     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canvas" alt="Canvas"/>&nbsp;
-  </div>
+   <div>
+        <strong>Version Control:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git" alt="git"/>&nbsp;
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="github" alt="github"/>&nbsp;
+    </div>
 
----
-
-<div>
-    <strong>Version Control:</strong>
-    <br>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git" alt="git"/>&nbsp;
-     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="github" alt="github"/>&nbsp;
-  </div>
----
-
-<div>
-    <strong>Project Management:</strong>
-    <br>
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="trello" alt="trello"/>&nbsp;
-  </div>
+  <div>
+      <strong>Project Management:</strong>
+      <br>
+      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="trello" alt="trello"/>&nbsp;
+    </div>
 
 </div>
