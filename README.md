@@ -1,7 +1,5 @@
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="100"/>
 </div>
 <div align="center" >
   <h1>
