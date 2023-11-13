@@ -26,6 +26,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 👯 I used to be a CPA and operator for trading platforms.
 - 🍒 In my free time, I enjoy doing fitness aerobics; Pamela girl 🥳
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Helena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
 
 -->
