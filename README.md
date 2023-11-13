@@ -33,10 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 💻 Tech Stack
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-
-  <div>
-  ### Frameworks, Platforms and Libraries:
+  ###Frameworks, Platforms and Libraries:
   
   <br>
   
