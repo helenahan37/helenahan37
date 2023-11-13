@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6](https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6)](https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif)"/>
+  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"width="100"/>
 </div>
 
 Here are some ideas to get you started:
