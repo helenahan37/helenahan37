@@ -4,7 +4,6 @@
     </div>
     <h2>
         <small>Hey there 👋</small>
-        <br>
         I am Helena 🍒
         <br>
         <div id="badges" align="center">
