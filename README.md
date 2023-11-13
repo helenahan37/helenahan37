@@ -49,14 +49,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
 
-  <div>
+<div>
     <strong>Languages:</strong>
     <br>
       
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="python"/>&nbsp;
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JS" alt="JS"/>&nbsp;
       
-  </div>
+</div>
 
   <div>
     <strong>Database:</strong>
