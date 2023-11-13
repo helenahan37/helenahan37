@@ -7,8 +7,6 @@
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/helena-h-a953b6155/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=helenahan37&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
 
 Here are some ideas to get you started:
