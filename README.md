@@ -2,6 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"width="200"/>
+  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 </div>
 
 Here are some ideas to get you started:
