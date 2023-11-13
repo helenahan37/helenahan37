@@ -18,7 +18,7 @@
     <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="400" height="400"/>
 </div>
 
-
+---
 ## :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
