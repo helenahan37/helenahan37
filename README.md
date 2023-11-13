@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-## 💻 Tech Stack
+<h1>💻 Tech Stack</h1>
 
 <h2>Frameworks, Platforms, and Libraries</h2>
 
