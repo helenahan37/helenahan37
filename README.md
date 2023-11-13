@@ -2,9 +2,11 @@
     <div align="center">
         <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
     </div>
-    <h1>
+    <h2>
         Hey there 👋
+    <h2>
         <br>
+    <h1>
         I am Helena 🍒
         <div id="badges" align="center">
             <a href="https://www.linkedin.com/in/helena-h-a953b6155/" target="_blank">
