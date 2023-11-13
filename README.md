@@ -1,20 +1,19 @@
 
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif"width="200"/>
+  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helena-h-a953b6155/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   
   </a>
 </div>
+
 <div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30px"/>
-</h1>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30px" style="vertical-align: middle;"/>
+  </h1>
 </div>
 
 Here are some ideas to get you started:
