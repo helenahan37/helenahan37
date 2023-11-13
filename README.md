@@ -22,7 +22,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
 - 🌱 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 👯 I used to be a CPA and operator for trading platforms.
 - 🍒 In my free time, I enjoy doing fitness aerobics; Pamela girl 🥳
