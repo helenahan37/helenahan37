@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="150"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="200"/>
 </div>
 <div align="center" >
   <h1>
-    Hey there 👋
+    Hey there 👋 I am Helena 🍒
   </h1>
 </div>
 
