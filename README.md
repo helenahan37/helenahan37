@@ -6,11 +6,12 @@
   <h1>
     Hey there 👋 I am Helena 🍒
   </h1>
-</div>
-<div id="badges" align="center">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helena-h-a953b6155/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
 </div>
 
 <div id="header" align="center">
