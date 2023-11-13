@@ -2,9 +2,9 @@
     <div align="center">
         <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
     </div>
-    <h2>
+    <h3>
         Hey there 👋
-    <h2>
+    <h3>
         <br>
     <h1>
         I am Helena 🍒
