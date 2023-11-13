@@ -3,7 +3,7 @@
         <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
     </div>
     <h2>
-      <small>Hey there 👋</small>
+        <small>Hey there 👋</small>
         <br>
         I am Helena 🍒
         <br>
@@ -16,9 +16,8 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="400" height="400"/>
+    <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="400" height="400"/>
 </div>
-
 ---
 
 ## :woman_technologist: About Me :
