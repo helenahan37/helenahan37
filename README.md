@@ -19,12 +19,15 @@
 </div>
 
 ---
+
 ### :woman_technologist: About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
+
 - 🌱 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 👯 I used to be a CPA and operator for trading platforms.
 - 🍒 In my free time, I enjoy doing fitness aerobics; Pamela girl 🥳
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Helena-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Helena.Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
 
 ---
 
@@ -34,9 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   <div>
     <strong><span style="font-size: 3em;">Frameworks, Platforms and Libraries:</span></strong>
-      
     <br>
-
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Js" alt="Js"/>&nbsp;
@@ -46,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
-  
+
 
   <div>
     <strong>Languages:</strong>
@@ -65,13 +66,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       
   </div>
 
-
  <div>
     <strong>Testing:</strong>
     <br>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
   </div>
-
 
  <div>
     <strong>Design:</strong>
@@ -93,6 +92,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <br>
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="trello" alt="trello"/>&nbsp;
   </div>
-
 
 </div>
