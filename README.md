@@ -2,7 +2,7 @@
     <div align="center">
         <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
     </div>
-    <h2>
+    <h1>
         <small>Hey there 👋</small>
         I am Helena 🍒
         <br>
@@ -11,7 +11,7 @@
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
         </div>
-    </h2>
+    </h1>
 </div>
 
 <div id="header" align="center">
