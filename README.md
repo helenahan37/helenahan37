@@ -3,7 +3,7 @@
         <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
     </div>
     <h1>
-        <h3>Hey there 👋</h3>
+        Hey there 👋
         <br>
         I am Helena 🍒
         <div id="badges" align="center">
