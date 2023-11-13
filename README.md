@@ -9,11 +9,14 @@
   </a>
 </div>
 
-<div>
+<div align="center" >
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30px" style="vertical-align: middle;"/>
+    Hey there 
   </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="600" height="300"/>
 </div>
 
 Here are some ideas to get you started:
