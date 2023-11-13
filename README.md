@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
 
@@ -62,10 +62,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) &nbsp;
 
   ### Version Control:
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-  ![GitHub](https://img.shields.io/badgeHere's the updated version of the tech stack with larger headings and spacing between each section:
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 
-  ### :fire: My Stats :
+### Project Management:
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) &nbsp;
+
+---
+
+  ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helenahan37&theme=omni&background=000000)](https://git.io/streak-stats)
 
