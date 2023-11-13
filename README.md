@@ -2,15 +2,16 @@
 
 
 <div align="center" >
+    <div align="center">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
+</div>
   <h1>
     Hey there 👋 I am Helena 🍒 
     <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helena-h-a953b6155/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200"/>
-</div>
+
   </h1> 
   </div>
 </div>
