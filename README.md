@@ -94,7 +94,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </div>
 
 </div>
-
 ---
 
 ### :fire: My Stats :
