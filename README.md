@@ -38,7 +38,13 @@ Frameworks, Platforms and Libraries:
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux />&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
-**Back-end:** Python, Flask, NodeJS, ExpressJS
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;, 
+Languages:
+    <br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="python"/>&nbsp;
+
+
 **Database:**
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 - **Testing:** Jest
