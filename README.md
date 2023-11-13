@@ -48,7 +48,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
 
-
   <div>
     <strong>Languages:</strong>
     <br>
@@ -72,6 +71,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
   </div>
 
+---
+
  <div>
     <strong>Design:</strong>
     <br>
@@ -79,13 +80,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="figma" alt="figma"/>&nbsp;
      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canvas" alt="Canvas"/>&nbsp;
   </div>
-  
+
+---
+
 <div>
     <strong>Version Control:</strong>
     <br>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git" alt="git"/>&nbsp;
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="github" alt="github"/>&nbsp;
   </div>
+---
 
 <div>
     <strong>Project Management:</strong>
