@@ -19,7 +19,7 @@
 </div>
 
 ---
-## woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
 
@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-## 💻 Tech Stack
+## :💻 Tech Stack
 ---
  ### Frameworks, Platforms and Libraries:  
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
