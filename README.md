@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
   <div>
-<strong><span style="font-size: 1.5em;">Frameworks, Platforms and Libraries:</span></strong>
+  <strong><span style="font-size: 2em;">Frameworks, Platforms and Libraries:</span></strong>
     <br>
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
