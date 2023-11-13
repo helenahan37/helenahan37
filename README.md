@@ -36,17 +36,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
   <div>
-    <strong><span style="font-size: 3em;">Frameworks, Platforms and Libraries:</span></strong>
-    <br>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Js" alt="Js"/>&nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" />&nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
+    ### Frameworks, Platforms and Libraries:
+    --
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Js" alt="Js"/>&nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" />&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="express.js"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="FlaskApi" alt="flaskapi"/>&nbsp;
 
   <div>
     <strong>Languages:</strong>
