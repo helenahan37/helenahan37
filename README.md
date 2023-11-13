@@ -88,7 +88,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </div>
 
   <div>
-      <strong>Project Management:</strong>
+       <h1 style="font-size: 24px;">Project Management:</h1>
       <br>
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="trello" alt="trello"/>&nbsp;
     </div>
