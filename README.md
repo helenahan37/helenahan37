@@ -1,4 +1,14 @@
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="200"/>
+</div>
+<div align="center" >
+  <h1>
+    Hey there 👋
+  </h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200"/>
 </div>
@@ -9,15 +19,6 @@
   </a>
 </div>
 
-<div align="center" >
-  <h1>
-    Hey there 
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="200"/>
-</div>
 
 Here are some ideas to get you started:
 
