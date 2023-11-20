@@ -24,7 +24,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
 
 - 🌱 I’m working as a Junior Software Developer and contributing to frontend and backend for building web applications.
-- 🔮 I am also a CPA and operations specialist in online trading.
+- 🔮 I am also a CPA and Operations Specialist in online trading.
 - 🍒 In my free time, I enjoy doing fitness aerobics; I am a Pamela girl 🥳
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Helena.Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
 ---
