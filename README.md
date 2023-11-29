@@ -21,7 +21,7 @@
 ---
 ## :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sydney 🐚
+I am a Full Stack Developer based in Sydney 🐚
 
 - 🌱 I’m working as a Junior Developer and contributing to frontend and backend for building web applications.
 - 🔮 I am also a CPA and Operations Specialist in online trading.
