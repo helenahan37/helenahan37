@@ -21,7 +21,7 @@
 ---
 ## :woman_technologist: About Me :
 
-I am a Web Developer based in Sydney 🐚
+I am a Developer based in Sydney 🐚
 
 - 🌱 I’m working as a Junior Developer and contributing to frontend and backend for building applications.
 - 🔮 I am also a CPA and Operations Specialist in online trading.
