@@ -26,7 +26,6 @@ I am a Developer based in Sydney 🐚
 - 🌱 I’m working as a Developer and contributing to frontend and backend for building applications.
 - 🔮 I am also a Certified Public Accountant and Operational Specialist in online trading.
 - 🍒 In my free time, I enjoy doing fitness aerobics 🥳
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Helena.Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helena-h-a953b6155/)
 ---
 
 ## 💻 Tech Stack
